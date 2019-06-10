@@ -1,0 +1,204 @@
+
+> backend@0.0.0 start /root/public_repo/Spotify API Application/backend
+> node ./bin/www
+
+[0mGET / [32m200 [0m9.566 ms - 1488[0m
+[0mGET /runtime.js [32m200 [0m2.606 ms - 6224[0m
+[0mGET /main.js [32m200 [0m1.732 ms - 64118[0m
+[0mGET /styles.js [32m200 [0m1.862 ms - 16694[0m
+[0mGET /polyfills.js [32m200 [0m2.558 ms - 241786[0m
+[0mGET /vendor.js [32m200 [0m1.766 ms - 3991804[0m
+[0mGET /assets/spotify.png [32m200 [0m0.789 ms - 15709[0m
+BQA3TBoYH8i9BRnlhGhNyjgipKvnD_xfkA4Xin0EyDJiYNEyGdiNLl3qwSMnnoIUNTMPJpr0eXCuAoqeURQ
+[0mGET /api [32m200 [0m192.947 ms - 94[0m
+[0mGET /favicon.ico [32m200 [0m1.080 ms - 190851[0m
+BQA4m-o5lAP3sgONHorPj1Z9FAfnkWlt7pifghQPhwSU7L1yyUjaffBF0rWAxOwjU5lj05UkPJPtGw_EINw
+[0mGET /api [32m200 [0m160.204 ms - 94[0m
+BQDVldxOzH1N9IC0x8it1f4WXLesRueqEM4rf0hmz8Nms6OMD1MaA7Fek22gYIh5sEYi5O2DQKsXlNWEGNE
+[0mGET /api [32m200 [0m162.261 ms - 94[0m
+BQCrW5TC6gf5d1QbCJjLXiignlvuo_OMzZY6RSH5J_vpOlaf_YsA0q8Mqx_SZYzEyCTh8eMJz3WI11l8D78
+[0mGET /api [32m200 [0m159.102 ms - 94[0m
+BQA93KuG5z_9P7WMtH98SPzuoHi1Djfj4_SZz7a9Ie7QXTbRRDV1_gfQur0gsZs6rOmm5TKlHZaBIx3-yjw
+[0mGET /api [32m200 [0m121.121 ms - 94[0m
+BQBqvwyKcqpx7VlKsRNF2ApHWjHXdZxpufceOwapAJhbSU9Stbgu5xWpy7_TjW7MIt3uXMaTgxW_7sgBLOQ
+[0mGET /api [32m200 [0m158.539 ms - 94[0m
+BQDH2GDo-9ZUeOAbO5bI_E9wQxx7jpa_302iRxvBaBCmL0XoJdkvA4XZ6SJw1fC4jIwTNj6RpQ6YWrl_ZSk
+[0mGET /api [32m200 [0m160.601 ms - 94[0m
+BQBsoGNxdgqTo4lKy741ldbG6NnPZEz5QbG4RYt4aO925X2W8p3C2OL-hHHfwASKblU9q-4AC1ot7FL1NxI
+[0mGET /api [32m200 [0m162.826 ms - 94[0m
+[0mGET / [36m304 [0m1.319 ms - -[0m
+[0mGET /polyfills.js [36m304 [0m1.260 ms - -[0m
+[0mGET /runtime.js [36m304 [0m1.215 ms - -[0m
+[0mGET /styles.js [36m304 [0m1.091 ms - -[0m
+[0mGET /vendor.js [36m304 [0m1.065 ms - -[0m
+[0mGET /main.js [36m304 [0m1.086 ms - -[0m
+[0mGET /assets/spotify.png [36m304 [0m0.469 ms - -[0m
+BQBKlTqM1y1LXTxP6w62KAtiQzfUfLMmkoLsRIR_uP8jsSkX0Py2iz2aDzlpI5rpb-yzXEOLOasiI1zNGEs
+[0mGET /api [32m200 [0m158.415 ms - 94[0m
+[0mGET / [36m304 [0m0.567 ms - -[0m
+[0mGET /runtime.js [36m304 [0m0.865 ms - -[0m
+[0mGET /polyfills.js [36m304 [0m0.797 ms - -[0m
+[0mGET /styles.js [36m304 [0m0.513 ms - -[0m
+[0mGET /vendor.js [36m304 [0m0.491 ms - -[0m
+[0mGET /main.js [36m304 [0m1.428 ms - -[0m
+[0mGET /assets/spotify.png [36m304 [0m0.479 ms - -[0m
+BQCrIM4JoWI8kROvlV1PHQDDJNhhfhlX4JfWLw1IhC5QyGmKA70DlIEB_8i_KY8VyxRRp02fcp6uCfnixyQ
+[0mGET /api [32m200 [0m163.740 ms - 94[0m
+BQBimnqyZhmIQNCWc4RWjG0hM9z7EyTrHT-HoQHAyy10Aic26DRxeJCF44EKIbT-QbWCv4AICK9hH8iOOO0
+[0mGET /api [32m200 [0m160.601 ms - 94[0m
+BQC8q9qarMcB4SLUK7uc_tOglKdLVzAvh9LyExirsBDRqd4STqLadP22agG2FlqXA5_2Ck6d13yVpJO0TYY
+[0mGET /api [32m200 [0m159.388 ms - 94[0m
+
+> backend@0.0.0 start /root/public_repo/Spotify API Application/backend
+> node ./bin/www
+
+[0mGET / [32m200 [0m8.491 ms - 1488[0m
+[0mGET /runtime.js [32m200 [0m1.353 ms - 6224[0m
+[0mGET /styles.js [32m200 [0m1.662 ms - 16694[0m
+[0mGET /main.js [32m200 [0m1.791 ms - 64118[0m
+[0mGET /polyfills.js [32m200 [0m0.654 ms - 241786[0m
+[0mGET /vendor.js [32m200 [0m1.794 ms - 3991804[0m
+[0mGET /assets/spotify.png [32m200 [0m1.458 ms - 15709[0m
+BQCLFWY66XcJXC1zrBUr3B9D0hLo7q7RFuW7UnOBjVdRU4XHfRhRiu7zBwRoMutVDDkyq6oLkbldYlbUep0
+[0mGET /api [32m200 [0m188.224 ms - 94[0m
+[0mGET /favicon.ico [32m200 [0m0.908 ms - 190851[0m
+[0mGET / [36m304 [0m1.344 ms - -[0m
+[0mGET /runtime.js [36m304 [0m1.028 ms - -[0m
+[0mGET /polyfills.js [36m304 [0m0.952 ms - -[0m
+[0mGET /vendor.js [36m304 [0m0.963 ms - -[0m
+[0mGET /styles.js [36m304 [0m0.914 ms - -[0m
+[0mGET /main.js [36m304 [0m0.395 ms - -[0m
+[0mGET /assets/spotify.png [36m304 [0m0.519 ms - -[0m
+BQCvOhZCETmwY8CTc8DPsDg-y5ygJJEWM2kvADglFLAPRTrMvZ1V_z9I73fpHmfjviGqI3JMO5jHa0U-SPc
+[0mGET /api [32m200 [0m166.726 ms - 94[0m
+[0mGET / [36m304 [0m0.620 ms - -[0m
+[0mGET /polyfills.js [36m304 [0m0.670 ms - -[0m
+[0mGET /runtime.js [36m304 [0m0.447 ms - -[0m
+[0mGET /main.js [36m304 [0m1.576 ms - -[0m
+[0mGET /vendor.js [36m304 [0m1.614 ms - -[0m
+[0mGET /styles.js [36m304 [0m1.642 ms - -[0m
+[0mGET /assets/spotify.png [36m304 [0m0.664 ms - -[0m
+BQCixXoN98gWurCpZ7bkX5Bzr6HntHwHYffNukqHkn6GG18amiCFcqh8tBNIRbMAS87NHKXPOY99DA6lMeU
+[0mGET /api [32m200 [0m162.123 ms - 94[0m
+
+> backend@0.0.0 start /root/public_repo/Spotify API Application/backend
+> node ./bin/www
+
+[0mGET / [36m304 [0m7.509 ms - -[0m
+[0mGET /runtime.js [36m304 [0m1.141 ms - -[0m
+[0mGET /polyfills.js [36m304 [0m0.670 ms - -[0m
+[0mGET /styles.js [36m304 [0m0.491 ms - -[0m
+[0mGET /vendor.js [36m304 [0m0.357 ms - -[0m
+[0mGET /main.js [36m304 [0m0.464 ms - -[0m
+[0mGET /assets/spotify.png [36m304 [0m2.935 ms - -[0m
+BQCEDhQJqtwPlijIzOS8i1lFmcoN4Tn57dS5FamP-MgBELWszAvNq719lCEWFSnQR2BUrgC73maEVIP1DQ0
+[0mGET /api [32m200 [0m191.405 ms - 94[0m
+[0mGET /favicon.ico [32m200 [0m2.776 ms - 190851[0m
+[0mGET / [36m304 [0m0.534 ms - -[0m
+[0mGET /polyfills.js [36m304 [0m1.153 ms - -[0m
+[0mGET /runtime.js [36m304 [0m0.958 ms - -[0m
+[0mGET /styles.js [36m304 [0m2.295 ms - -[0m
+[0mGET /vendor.js [36m304 [0m2.150 ms - -[0m
+[0mGET /main.js [36m304 [0m0.939 ms - -[0m
+[0mGET /assets/spotify.png [36m304 [0m0.676 ms - -[0m
+BQCIlQyUeC17dmlFYISwTJsjgIKDAmdXbOWonSHMZ7OfSusYMm5eheAKS7utWrUKmm8nzY8nkhLfKR8BU_w
+[0mGET /api [32m200 [0m161.674 ms - 94[0m
+[0mGET /favicon.ico [32m200 [0m0.830 ms - 190851[0m
+[0mGET / [36m304 [0m0.516 ms - -[0m
+[0mGET /runtime.js [36m304 [0m0.460 ms - -[0m
+[0mGET /polyfills.js [36m304 [0m0.371 ms - -[0m
+[0mGET /main.js [36m304 [0m1.204 ms - -[0m
+[0mGET /styles.js [36m304 [0m1.152 ms - -[0m
+[0mGET /vendor.js [36m304 [0m1.145 ms - -[0m
+[0mGET /assets/spotify.png [36m304 [0m0.696 ms - -[0m
+BQCTOAvImBTM3d1juPwNcDJlb6LzWxfa3E94xCunCQK1qYXBEhyqPRYLldQlZeg-FZ-c5QpoGy-EqpJm72g
+[0mGET /api [32m200 [0m165.120 ms - 94[0m
+[0mGET /favicon.ico [32m200 [0m0.677 ms - 190851[0m
+BQCyYzgG0BphNEaX3ezDu-kd64xbQLbGoCIqz4UvdSaduNl8LZPeUtEjulwGiu5-rTd4jjGOzlvt4esUFg8
+[0mGET /api [32m200 [0m160.185 ms - 94[0m
+BQC_yMT0CqDLNaVhhzUZv8TvR1RPjKB7WTSkoeuuQWRRRL08w7wjTAyJGVv0Vr0zP9SVR_6WBtM0Ecgwxl0
+[0mGET /api [32m200 [0m161.347 ms - 94[0m
+[0mGET / [32m200 [0m0.717 ms - 1488[0m
+[0mGET / [32m200 [0m1.156 ms - 1488[0m
+[0mGET /runtime.js [32m200 [0m2.035 ms - 6224[0m
+[0mGET /styles.js [32m200 [0m2.533 ms - 16694[0m
+[0mGET /main.js [32m200 [0m2.436 ms - 64118[0m
+[0mGET /polyfills.js [32m200 [0m3.619 ms - 241786[0m
+[0mGET /vendor.js [32m200 [0m2.725 ms - 3991804[0m
+BQCQFuSFjak2fmy2cNrvGr7rar5dhg3BuqS6kRSQhE7w8IC48PSQ71Td21Tq0xmByIeCpA2cVFxXjGRytHM
+[0mGET /api [32m200 [0m159.498 ms - 94[0m
+[0mGET /assets/spotify.png [32m200 [0m1.177 ms - 15709[0m
+[0mGET /favicon.ico [32m200 [0m1.009 ms - 190851[0m
+[0mGET / [36m304 [0m0.778 ms - -[0m
+[0mGET /runtime.js [36m304 [0m0.849 ms - -[0m
+[0mGET /polyfills.js [36m304 [0m1.769 ms - -[0m
+[0mGET /styles.js [36m304 [0m0.448 ms - -[0m
+[0mGET /vendor.js [36m304 [0m0.975 ms - -[0m
+[0mGET /main.js [36m304 [0m0.997 ms - -[0m
+[0mGET /assets/spotify.png [36m304 [0m0.523 ms - -[0m
+BQACpX1Swj1sk1sl4Rl2vBKwyTXEKNIltOT7vI4X8PKvdP3nc1_jDW9yJqdahZzK6vkQfC607b8116kUq9Q
+[0mGET /api [32m200 [0m159.688 ms - 94[0m
+[0mGET /favicon.ico [32m200 [0m0.720 ms - 190851[0m
+[0mGET / [36m304 [0m0.446 ms - -[0m
+[0mGET /runtime.js [36m304 [0m0.994 ms - -[0m
+[0mGET /polyfills.js [36m304 [0m0.859 ms - -[0m
+[0mGET /styles.js [36m304 [0m0.664 ms - -[0m
+[0mGET /vendor.js [36m304 [0m0.758 ms - -[0m
+[0mGET /main.js [36m304 [0m0.754 ms - -[0m
+[0mGET /assets/spotify.png [36m304 [0m0.583 ms - -[0m
+BQCWwQsoWGS_j5FPNbDIdsBYm4DfIe9jHtWeSoAqLAKJtWoaEe1dRBOX5KbnYLBMLSAPF7tuRT9fyTlFy5A
+[0mGET /api [32m200 [0m158.977 ms - 94[0m
+[0mGET /favicon.ico [32m200 [0m0.643 ms - 190851[0m
+BQBk1myeYALdrX_dcMt-XgafeQVb417A951-jNCgI29mzErzYstSG19ebQjNqpYyK-5oEUvz2BUv6rY-Tuc
+[0mGET /api [32m200 [0m159.046 ms - 94[0m
+BQBCMjoUEsdaYIEgYG39d8L_A3IfNBpwVt1B1sGdDSR_exsRKmdEuMgeTUHq37g0LkoaAjj1waEN34yaJuo
+[0mGET /api [32m200 [0m164.772 ms - 94[0m
+[0mGET / [36m304 [0m0.574 ms - -[0m
+[0mGET /polyfills.js [36m304 [0m0.763 ms - -[0m
+[0mGET /runtime.js [36m304 [0m0.772 ms - -[0m
+[0mGET /styles.js [36m304 [0m1.169 ms - -[0m
+[0mGET /vendor.js [36m304 [0m1.158 ms - -[0m
+[0mGET /main.js [36m304 [0m1.207 ms - -[0m
+[0mGET /assets/spotify.png [36m304 [0m0.479 ms - -[0m
+BQAoJgyg_KGLuwuvPjdE74rAV9G_7ejFegQoki8dC--4LMWFclBcB-ktjP4gwxRIeQX-v0qzN0xMyx461B4
+[0mGET /api [32m200 [0m165.670 ms - 94[0m
+[0mGET / [36m304 [0m0.458 ms - -[0m
+[0mGET /polyfills.js [36m304 [0m0.583 ms - -[0m
+[0mGET /runtime.js [36m304 [0m0.413 ms - -[0m
+[0mGET /styles.js [36m304 [0m0.798 ms - -[0m
+[0mGET /vendor.js [36m304 [0m0.855 ms - -[0m
+[0mGET /main.js [36m304 [0m0.497 ms - -[0m
+[0mGET /assets/spotify.png [36m304 [0m0.588 ms - -[0m
+BQA9TDC-_qaFIhmpEGo2Jqcz_Whe-7PlSzbOj8KSe9H_7hgFi0BSI_tTEzRe57At7DxD9Kmt9a_wjNLFvgs
+[0mGET /api [32m200 [0m159.110 ms - 94[0m
+[0mGET /favicon.ico [32m200 [0m1.065 ms - 190851[0m
+BQDHdqb71Ler0w5ErW_pha6bjKWl6wQRemscHuO9Yk8pDsMC9fSU2DNlDFD8R-TL9ide25plwWdVQymDT3c
+[0mGET /api [32m200 [0m161.593 ms - 94[0m
+BQCuqwQ_pua8ZhwdEGHHmQU1OvlR8k6jKU4xG4VQjV_CHCYr1Fo64EflPMygoI5QjXoPUy2O4RCTii2Ebs0
+[0mGET /api [32m200 [0m161.219 ms - 94[0m
+BQAjvs9qq0ftoBitmO6WQ8AytHRuKYb_BvOiCuBhR0OJ_s3mn9xBkp1Y3xvjwIbvlQwfOHp_6jlAw9jqP_M
+[0mGET /api [32m200 [0m163.645 ms - 94[0m
+BQDdOACfVT5FAN1A604jXJdW_-yCH-Qw1zgG9vCsbCJijcq0xthVhjvZ3pWmlJsm-UtmL-MwnNSIOl2h9eo
+[0mGET /api [32m200 [0m163.293 ms - 94[0m
+[0mGET / [36m304 [0m0.471 ms - -[0m
+[0mGET /runtime.js [36m304 [0m1.654 ms - -[0m
+[0mGET /polyfills.js [36m304 [0m0.442 ms - -[0m
+[0mGET /styles.js [36m304 [0m0.443 ms - -[0m
+[0mGET /vendor.js [36m304 [0m0.357 ms - -[0m
+[0mGET /main.js [36m304 [0m0.523 ms - -[0m
+[0mGET /assets/spotify.png [36m304 [0m0.441 ms - -[0m
+BQBMIdkLVzKMDokf02XNrhQZ8YECr7pB0G7n-b6fwLkSClFvCqrBjYHPASz5J7IeISmoQeWLQnhbDnjTM1M
+[0mGET /api [32m200 [0m157.971 ms - 94[0m
+BQDloYIDuAzh9-KiK1sMB_gvSaXfujsXTfHTZ7PEnzWwBJh0jBO8hFq-lDW2Aq9Gemn2DG3VkFpXvEXCb0o
+[0mGET /api [32m200 [0m160.250 ms - 94[0m
+BQCb9EEk6aDHCNyI4PyvLC5ed92fFqwMkqOox2nHFrIMBc1iD2ihq6LEMtUENv1PBCXcV8FtbcRLiHJhCbY
+[0mGET /api [32m200 [0m160.236 ms - 94[0m
+[0mGET / [36m304 [0m0.483 ms - -[0m
+[0mGET /runtime.js [36m304 [0m1.150 ms - -[0m
+[0mGET /polyfills.js [36m304 [0m1.103 ms - -[0m
+[0mGET /vendor.js [36m304 [0m0.715 ms - -[0m
+[0mGET /styles.js [36m304 [0m0.668 ms - -[0m
+[0mGET /main.js [36m304 [0m0.374 ms - -[0m
+[0mGET /assets/spotify.png [36m304 [0m0.661 ms - -[0m
+BQDiV6cd6Fts_9VUgrK_dSbvyNQK5GYpfoEo2YoajRFaWZTlzOIImPXlTfm0daAi7Wm83pmdK0XUe9IDf5A
+[0mGET /api [32m200 [0m161.059 ms - 94[0m

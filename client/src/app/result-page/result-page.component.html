@@ -1,0 +1,3 @@
+<div class="mx-auto clear-right">Here are the {{artistName}} Albums currently on Spotify</div>
+<h3> (they may take a moment to load ...) </h3>
+<app-albums *ngFor= 'let elements of artistAlbums' app-data [ID]="elements">

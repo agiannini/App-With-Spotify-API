@@ -1,0 +1,10 @@
+<div class ="mx-auto">
+<h3> You Searched For {{searchTerm}}</h3>
+<h4>Results:</h4>
+<div class="new mx-auto">
+<div class="card-deck">
+
+<app-results *ngFor= 'let id of searchResults' app-data [ID]="id">
+</app-results>
+</div>
+</div>

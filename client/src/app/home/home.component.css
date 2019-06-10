@@ -1,0 +1,9 @@
+li{
+  list-style: none;
+}
+
+#modifier{
+  width: 50vw;
+  margin:auto;
+  text-align: left;
+}

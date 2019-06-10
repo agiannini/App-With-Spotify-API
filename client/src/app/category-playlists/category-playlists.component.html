@@ -1,0 +1,5 @@
+
+<div>
+  <h2> Here are all of the {{CategoryID}} playlists</h2>
+  <h3> (they may take a moment to load ...) </h3>
+<app-playlists *ngFor= 'let item of results' app-playlists [playlist]="item">

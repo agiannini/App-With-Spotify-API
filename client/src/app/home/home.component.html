@@ -1,0 +1,28 @@
+<div class="jumbotron bg-dark text-light">
+  <h1 class="display-4">Hi!</h1>
+  <p class="lead">I built this Web Application to test some of the features of the Spotify API. It is built with Angular 7 and is hosted by Express.
+  The application passes authentication credentials back and forth from the Express server and uses an Angular Service class to make API calls. It includes:
+<div id="modifier">
+  <ul class="lead">
+    <li>
+      1) A search function that searches Spotify's Database by artist name
+    </li>
+      <li>
+      2) Dynamic artist pages in these search results containing albums
+      </li>
+      <li>
+      3) Category page displaying images and links to playlist
+      </li>
+      <li>
+        4) A page containing new releases.
+      </li>
+    </ul>
+</div>
+  <p class="lead">
+I created these features because I wanted to be able to see all of the albums and tracks next to eachother. This would allow me to search for a track if I'm not sure of the name.
+</p><p class="lead">The application is built to work without being logged into Spotify. The playlists will play only a thirty second clips of the songs.
+    </p><p><a class="btn btn-primary btn-lg" target="_blank" href="https://accounts.spotify.com/en/login/" role="button">login to spotify</a>
+  </p>
+</div>
+<h3>Check out Christian Nodal's new album to see an example of a playlist with a thirty second clip.</h3>
+<iframe  class="mx-2 px-2" [src]=getURL() width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

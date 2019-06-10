@@ -1,0 +1,16 @@
+a{
+  color: orange;
+}
+
+td{
+  .new{
+  width: 25vw;
+  border-top-width: thick;
+  border-top-color: black;
+  border-top-style: dashed;
+
+
+  }
+
+
+}

@@ -1,0 +1,8 @@
+<h3>This page contains the top new releases on Spotify</h3>
+<h3> (they may take a moment to load ...) </h3>
+
+<div class="container" *ngFor= 'let item of allItems'>
+
+  <iframe  class="mx-2 px-2 col" [src]=getURL(item.id) width="300" height="175" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+   </div>
