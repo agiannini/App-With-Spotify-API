@@ -3,6 +3,11 @@ var router = express.Router();
 var request = require('request'); // "Request" library
 require('dotenv').config();
 
+const spotifyController = require('../controller/spotifyController');
+const SpotifyService = spotifyController.SpotifyService;
+
+
+
 // Called on by the .env
 var client_id = `${process.env.CLIENT_ID}`;
 var client_secret = `${process.env.CLIENT_SECRET}`;
@@ -33,6 +38,19 @@ router.get('/', function(req, res, next) {
     res.send(JSON.stringify(tokenObj))
   }
 });
+});
+
+router.get('/test', (req, res) => {
+
+      res.send(SpotifyService.getToken());
+//      .then((msg) =>{
+//        .then((msg) => {
+//          res.status(200);
+//          res.send(msg);
+//        }
+  //    })
+  //  })
+
 });
 
 
