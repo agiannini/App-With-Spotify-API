@@ -46,16 +46,6 @@ request.post(authOptions, function(error, response, body) {
     console.log(token);
     tokenObj.name = token;
     res.send(JSON.stringify(tokenObj))
-    var options = {
-      url: 'https://api.spotify.com/v1/users/jmperezperez',
-      headers: {
-        'Authorization': 'Bearer ' + token
-      },
-      json: true
-    };
-    request.get(options, function(error, response, body) {
-//      console.log(body);
-    });
   }
 });
 });
